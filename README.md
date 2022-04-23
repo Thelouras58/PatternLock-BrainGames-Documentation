@@ -24,5 +24,6 @@ Draw the Numbers – your job is to reproduce a combination of numbers in the Pa
 Remember the Pattern – in this game you have to remember a pattern that you will be shown for a short period of time. The longer you play, the more complicated it becomes. Be careful not to make any mistakes!
 
 Both games are fun, simple, and easy to pick up, so dive in and play the open alpha!
+
 https://play.google.com/store/apps/details?id=thelouras.pattern.game
 
