@@ -1,6 +1,12 @@
 # PatternLock-BrainGames
 The open source side of PatternLock: Brain Games 
 
+### Download
+
+<a href="https://play.google.com/store/apps/details?id=thelouras.pattern.game">
+    <img src="https://raw.githubusercontent.com/lucasnlm/antimine-android/master/.github/google_play.png" alt="Get it on Google Play" height="80"/>
+</a>
+
 Pattern Lock Brain Games is my first personal production project.
 It’s an Android application that incudes a mini-game collection that requires a variety of thinking skills.
 The games are divided into 3 different categories, namely: Problem Solving, Memory and Brain Processing Speed.
@@ -24,11 +30,6 @@ Draw the Numbers – your job is to reproduce a combination of numbers in the Pa
 Remember the Pattern – in this game you have to remember a pattern that you will be shown for a short period of time. The longer you play, the more complicated it becomes. Be careful not to make any mistakes!
 
 Both games are fun, simple, and easy to pick up, so dive in and play the open alpha!
-### Download
-
-<a href="https://play.google.com/store/apps/details?id=thelouras.pattern.game">
-    <img src="https://raw.githubusercontent.com/lucasnlm/antimine-android/master/.github/google_play.png" alt="Get it on Google Play" height="80"/>
-</a>
 
 ## Technical Details
 
