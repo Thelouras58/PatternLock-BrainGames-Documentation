@@ -7,41 +7,6 @@
 # All Users
 # Start date: 20220413
 # End date: 20220530
-
-Country,Users
-Greece,80
-United States,48
-India,29
-Philippines,6
-United Kingdom,4
-Malaysia,2
-Bangladesh,1
-Belgium,1
-France,1
-Mauritius,1
-Netherlands,1
-South Korea,1
-
-# Start date: 20220413
-# End date: 20220530
-Country,Users,New users
-Greece,80,70
-United States,48,48
-India,29,29
-Philippines,6,5
-United Kingdom,4,4
-Malaysia,2,2
-Bangladesh,1,1
-Belgium,1,1
-France,1,1
-Mauritius,1,1
-Netherlands,1,1
-South Korea,1,1
-
-# All Users
-# Start date: 20220413
-# End date: 20220530
-
 Country,Users,New users,Engaged sessions,Engagement rate,Engaged sessions per user,Average engagement time,Event count,Conversions,Total revenue
 Greece,80,70,122,0.6321243523316062,1.525,288.525,1757,70,0
 United States,48,48,47,0.5280898876404494,0.9791666666666666,128.8125,757,48,0
