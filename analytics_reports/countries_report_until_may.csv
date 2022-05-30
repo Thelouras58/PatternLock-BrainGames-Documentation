@@ -8,6 +8,7 @@
 # Start date: 20220413
 # End date: 20220530
 Country,Users,New users,Engaged sessions,Engagement rate,Engaged sessions per user,Average engagement time,Event count,Conversions,Total revenue
+
 Greece,80,70,122,0.6321243523316062,1.525,288.525,1757,70,0
 United States,48,48,47,0.5280898876404494,0.9791666666666666,128.8125,757,48,0
 India,29,29,36,0.6428571428571429,1.2413793103448276,193.72413793103448,417,29,0
