@@ -1,5 +1,5 @@
 
-## v1.1.0  - IN PROGRESS
+## v1.1.0  - [Jul 6, 2022]
 
 * Difficulty Menu
 * Best Time Functionality
