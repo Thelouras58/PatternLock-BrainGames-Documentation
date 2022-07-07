@@ -1,10 +1,10 @@
 
 ## v1.1.0  - IN PROGRESS
 
-* New Choose Difficulty Menu
-* More content in all Games
-* Best Score Functionality 
-* A lot of UI/UX Improvements
+* Difficulty Menu
+* Best Time Functionality
+* Gameplay fixes
+* UI/UX Improvements
 
 ## v1.0.0 - [May 18, 2022] (Production - Open Beta)
 
