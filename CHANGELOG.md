@@ -1,4 +1,4 @@
-## v1.1.1  - [WiP]
+## v1.1.1  - [WiP] 
 
 * Add ScrollView to menus for small devices
 * Fix some gameplay bugs
