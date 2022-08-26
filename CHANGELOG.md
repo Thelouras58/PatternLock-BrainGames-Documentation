@@ -3,6 +3,7 @@
 * Add ScrollView to menus for small devices
 * Fix some gameplay bugs
 * Popups
+* Add my first Ad :) 
 
 
 ## v1.1.0  - [Jul 6, 2022]
