@@ -1,4 +1,9 @@
-## v1.1.1  - [WiP] 
+## v1.1.2  - [WiP]
+
+* One More Ad :)
+* Bug Hunting
+
+## v1.1.1  - [Sep 3, 2022] 
 
 * Add ScrollView to menus for small devices
 * Fix some gameplay bugs
