@@ -1,7 +1,7 @@
 ## v1.1.2  - [WiP]
 
 * One More Ad :)
-* Bug Hunting
+* Fix crash in android 12 
 
 ## v1.1.1  - [Sep 3, 2022] 
 
