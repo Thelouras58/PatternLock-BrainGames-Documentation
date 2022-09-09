@@ -1,4 +1,4 @@
-## v1.1.2  - [WiP]
+## v1.1.2  - [Sep 8, 2022]
 
 * One More Ad :)
 * Fix crash in android 12 
