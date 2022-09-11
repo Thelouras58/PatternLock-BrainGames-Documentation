@@ -1,3 +1,9 @@
+## v1.1.5  - [WiP]
+
+* Leaderboard
+* UI bug fixes
+* Integrate Unity Ads Mediation 
+
 ## v1.1.2  - [Sep 8, 2022]
 
 * One More Ad :)
