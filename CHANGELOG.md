@@ -4,7 +4,9 @@
 * UI/UX Improvments
 * Fix Bugs from github issues
 * Fix Some Crashes 
-* Soundeffects 
+* Soundeffeects
+* A lot of code clean ups & improvments
+* Project build time improvments 
 
 ## v1.1.2  - [Sep 8, 2022]
 
