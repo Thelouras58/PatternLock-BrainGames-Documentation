@@ -1,9 +1,3 @@
-## v1.2.0  - [WiP]
-
-* UI/UX Improvments
-* Soundeffeects
-
-
 ## v1.1.5  - [Nov 27, 2022]
 
 * About Page
