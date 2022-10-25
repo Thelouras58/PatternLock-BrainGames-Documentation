@@ -1,12 +1,15 @@
 ## v1.2.0  - [WiP]
 
-* Settings/About 
 * UI/UX Improvments
-* Fix Bugs from github issues
-* Fix Some Crashes 
 * Soundeffeects
-* A lot of code clean ups & improvments
+
+
+## v1.1.5  - [Nov 27, 2022]
+
+* About Page
+* Fix Bugs & Crashes
 * Project build time improvments 
+* Code Clean Up
 
 ## v1.1.2  - [Sep 8, 2022]
 
