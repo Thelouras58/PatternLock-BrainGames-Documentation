@@ -1,3 +1,8 @@
+## v1.2.0  - [WiP]
+* Music & Sound Effects
+* Google Game Services
+* Add sounds settings
+
 ## v1.1.5  - [Nov 27, 2022]
 
 * About Page
