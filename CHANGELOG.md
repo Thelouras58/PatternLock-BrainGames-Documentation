@@ -1,5 +1,6 @@
 ## v1.2.0  - [WiP]
 * Music & Sound Effects
+* New Game mode: Find the pattern
 * Google Game Services
 * Add sounds settings
 
