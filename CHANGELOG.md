@@ -2,7 +2,6 @@
 * Music & Sound Effects
 * New Game mode: Find the pattern
 * Google Game Services
-* Add sounds settings
 
 ## v1.1.5  - [Nov 27, 2022]
 
