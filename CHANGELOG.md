@@ -6,6 +6,7 @@
 * Music & Sound Effects
 * New Game mode: Find the pattern
 * Google Game Services for leaderboard
+* Settings: Remove Tutorials, Sound 
 
 ## v1.1.5  - [Nov 28, 2022]
 
