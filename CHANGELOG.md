@@ -12,7 +12,7 @@
 
 * About Page
 * Fix Bugs & Crashes
-* Project build time improvments 
+* Project build time improvements 
 * Code Clean Up
 
 ## v1.1.2  - [Sep 8, 2022]
