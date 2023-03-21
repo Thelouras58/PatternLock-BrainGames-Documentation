@@ -3,7 +3,8 @@
 * New Game mode: Find the pattern
 
 ## v1.2.0  - [WiP]
-* Google Game Services for leaderboard
+* Google Game Services Login Integrations
+* Leaderboard via google game services! 
 
 ## v1.1.6  - [Mar 21, 2023]
 * Critical bug fixes
