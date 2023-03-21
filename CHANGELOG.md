@@ -1,12 +1,12 @@
 ## v1.2.1  - [WiP]
-* IAP to remove ads 
-
-## v1.2.0  - [WiP]
-
 * Music & Sound Effects
 * New Game mode: Find the pattern
+
+## v1.2.0  - [WiP]
 * Google Game Services for leaderboard
-* Settings: Remove Tutorials, Sound 
+
+## v1.1.6  - [Mar 21, 2023]
+* Critical bug fixes
 
 ## v1.1.5  - [Nov 28, 2022]
 
