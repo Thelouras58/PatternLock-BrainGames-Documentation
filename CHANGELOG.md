@@ -1,6 +1,9 @@
-## v1.2.1  - [WiP]
+## v1.2.5 - [WiP]
 * Music & Sound Effects
 * New Game mode: Find the pattern
+
+## v1.2.1  - [WiP]
+* Bug Fixing 
 
 ## v1.2.0  - [Mar 23, 2023]
 * Google Game Services Login Integrations
