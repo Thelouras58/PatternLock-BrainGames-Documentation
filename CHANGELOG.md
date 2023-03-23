@@ -2,11 +2,11 @@
 * Music & Sound Effects
 * New Game mode: Find the pattern
 
-## v1.2.0  - [WiP]
+## v1.2.0  - [Mar 23, 2023]
 * Google Game Services Login Integrations
-* Leaderboard via google game services! 
+* Leaderboard for game mode 1! 
 
-## v1.1.6  - [Mar 21, 2023]
+## v1.1.6  - [Mar 20, 2023]
 * Critical bug fixes
 
 ## v1.1.5  - [Nov 28, 2022]
